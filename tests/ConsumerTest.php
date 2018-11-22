@@ -18,11 +18,4 @@ $result = $consumer->nombreCompleto();
 $this->assertEquals('Nicolás Sogbi', $result);
     }
 
-    /**
-    * Probar email válido
-    */
-    public function testEmail()
-    {
-
-    }
 }
